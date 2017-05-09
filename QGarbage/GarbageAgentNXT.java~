@@ -259,7 +259,7 @@ public class GarbageAgentNXT {
 	public static void main(String[] args) throws Exception {
 		GarbageAgentNXT agent = new GarbageAgentNXT();
 		agent.run();
-		//uncomment the below code for turning the robot in the west , south,north directions
+		//uncomment the below code for turning the robot in the west , south,north directions on button press
 		
 		
 		
