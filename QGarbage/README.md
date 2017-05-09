@@ -1,6 +1,6 @@
 # GarbageAgentNXT:
 
-	This program abstracts the lego robot method calls by providing method which could be called from same program or by nxj pc program by calling it through bluetooth or USB.
+* This program abstracts the lego robot method calls by providing method which could be called from same program or by nxj pc program by calling it through bluetooth or USB.
 
 # Files details:
 
